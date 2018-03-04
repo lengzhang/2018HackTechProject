@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">MyChess</string>
+    <string name="welcome">Welcome to MyChess</string>
+    <string name="start_game">Start Game</string>
+    <string name="game_play">Game Play</string>
+    <string name="msg_box">Message Box</string>
+    <string name="game_start">Game Start</string>
+    <string name="Num_0">0</string>
+    <string name="Num_1">1</string>
+    <string name="Num_2">2</string>
+    <string name="Num_3">3</string>
+    <string name="Num_4">4</string>
+    <string name="Num_5">5</string>
+    <string name="Num_6">6</string>
+    <string name="Num_7">7</string>
+    <string name="Num_8">8</string>
+    <string name="Num_9">9</string>
+    <string name="Letter_A">A</string>
+    <string name="Letter_B">B</string>
+    <string name="Letter_C">C</string>
+    <string name="Letter_D">D</string>
+    <string name="Letter_E">E</string>
+    <string name="Letter_F">F</string>
+    <string name="Letter_G">G</string>
+    <string name="Letter_H">H</string>
+    <string name="Letter_K">K</string>
+    <string name="Letter_N">N</string>
+    <string name="Letter_P">P</string>
+    <string name="Letter_Q">Q</string>
+    <string name="Letter_R">R</string>
+
 </resources>
